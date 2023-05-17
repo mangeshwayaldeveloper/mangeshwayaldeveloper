@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mangeshwayaldeveloper&show_icons=true&locale=en" alt="mangeshwayaldeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshwayaldeveloper&" alt="mangeshwayaldeveloper" /></p>
+
+<p> special thanks to my brother Ashish </>
