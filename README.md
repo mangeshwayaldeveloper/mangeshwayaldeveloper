@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mangeshwayaldeveloper@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Hungry to work for you**
+- ⚡ Fun fact **Codding is Fun For Me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
